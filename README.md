@@ -43,7 +43,7 @@ Eventuali figure posizionate al di fuori del display non devono essere visualizz
 ## Esempio
 Nell'esempio qui sotto, il software è utilizzato per visualizzare due triangoli.
 
-![Esempio](./figures/example1.png)
+![Esempio](./example1.png)
 
 In questo esempio l'origine (x=0,y=0) del sistema di riferimento utilizzato corrisponde all'angolo in basso
 a sinistra della console, l'asse x punta verso destra, mentre l'asse y punta verso l'alto.
