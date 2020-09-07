@@ -32,11 +32,12 @@ funzionamento del codice scritto.
 Il software deve permettere la visualizzazione a console di semplici figure geometriche 2D, come
 triangoli, rettangoli e cerchi.
 La console può essere usata come un display, dove ogni pixel corrisponde ad un carattere.
+Il display è uno spazio interno alla console, che quindi deve essere abbastanza larga e alta per contenerlo.
 Le figure geometriche sono create dall'utente specificandone forma, dimensioni, e posizione sul display.
 Successivamente, queste figure possono essere visualizzate sulla console.
 Le figure devono essere visualizzate "piene", stampando degli asterischi (*) in corrispondenza 
 dei pixel all'interno delle figure, e stampando degli spazi in corrispondenza dei pixel liberi.
-Il display deve avere una larghezza ed una altezza, specificate dall'utente
+Il display deve avere una larghezza ed una altezza (misurate in pixel), specificate dall'utente
 tramite numeri interi.
 Eventuali figure posizionate al di fuori del display non devono essere visualizzate.
 
